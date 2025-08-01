@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to OCD CDSS</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+      <link href="static/images/ChatGPT Image Jul 3, 2025, 11_46_26 PM.png" rel="icon">
+        <style>
+        body {
+            
+            background-size: cover;
+            background-position: right center;
+            background-repeat: no-repeat;
+        }
+        .bg-offer {
+            background:url(../img/CHILDREN) center center no-repeat;
+            background-size: cover;
+        }
+        
+        .offer-text {
+            background: rgba(6, 163, 218, .85);
+        }
+        .container {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 40px;
+            border-radius: 10px;
+        }
+        
+        nav {
+            background-color: #f2f2f2;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        nav a {
+            color: #020202ff;
+            text-decoration: none;
+            padding: 10px;
+            margin: 20px;
+        }
+        
+        nav a:hover {
+            background-color: rgba(14, 42, 83, 0.788);
+            color: rgba(14, 42, 83, 0.788);
+        }
+        .carousel-caption {
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(14, 42, 83, 0.788);
+            z-index: 1;
+        }
+        
+        @media (max-width: 576px) {
+            .carousel-caption h5 {
+                font-size: 14px;
+                font-weight: 500 !important;
+            }
+        
+            .carousel-caption h1 {
+                font-size: 30px;
+                font-weight: 600 !important;
+            }
+        }
+        
+        .carousel-control-prev,
+        .carousel-control-next {
+            width: 10%;
+        }
+        
+        .carousel-control-prev-icon,
+        .carousel-control-next-icon {
+            width: 3rem;
+            height: 3rem;
+        }
+        
+        @media (min-width: 991.98px) {
+            .banner {
+                position: relative;
+                margin-top: -90px;
+                z-index: 1;
+            }
+        }
+    </style>
+</head>
+<body class="bg-light text-center">
+    <!-- Navbar Start -->
+    <nav class="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0">
+        <a href="index.html" class="navbar-brand p-0">
+            <h1 class="m-0 text-primary"><img class="w-10"src="static/images/3533409_creativity_idea_imagination_innovation_innovative_icon.png" style="background-color:rgb(178, 178, 194)" height="80" width="80"/>
+              OCDCare</h1>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto py-0">
+                <a href="/" class="nav-item nav-link active">Home</a>
+                <a href="/about" class="nav-item nav-link">About </a>
+                <a href="service.html" class="nav-item nav-link">FAQs</a>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Resources</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="https://iocdf.org" class="dropdown-item">Articles</a>
+                        <a href="team.html" class="dropdown-item"></a>
+                        <a href="appointment.html" class="dropdown-item">How to Use Tool</a>
+                    </div>
+                </div>
+            </div>
+            <button type="button" class="btn text-dark" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></button>
+            <a href="/form" class="btn btn-primary py-2 px-4 ms-3">Start Assessment</a>
+        </div>
+    </nav>
+    <!-- Navbar End -->
+
+        <!-- Carousel Start -->
+    <div class="container-fluid p-0">
+        <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active" onclick="window.location.href='img/obsessive_compulsive_disorder_head_blocks_720.jpg'">
+                   <img src="{{ url_for('static', filename='images/banner2.jpg') }}" alt="Banner 2" class="img-fluid mt-3">
+                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <div class="p-3" style="max-width: 900px;">
+                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">ocd severity checker </h5>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">welcome to an OCD Decision Support System</h1>
+                            <a href="/about" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Learn more</a>
+                            <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Take the Test</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item" onclick="window.location.href='img/CHILDREN.jpg'">
+                  <img src="{{ url_for('static', filename='images/banner1.jpg') }}" class="w-100" alt="Banner Image">
+                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <div class="p-3" style="max-width: 900px;">
+                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Keep Your mind Healthy</h5>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Take The Best Quality OCD Treatment</h1>
+                            <a href="appointment.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Appointment</a>
+                            <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+    <!-- Carousel End -->
+
+    <!-- About Start -->
+    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-7">
+                    <div class="section-title mb-4">
+                        <h5 class="position-relative d-inline-block text-primary text-uppercase">What are the symptoms</h5>
+                        <h1 class="display-5 mb-0">Understanding Your OCD symptoms
+                        </h1>
+                    </div>
+                    <h4 class="text-body fst-italic mb-4">A helpful tool to support your care and treatment journey</h4>
+                    <p class="mb-4">This web app is designed to help you and your doctor understand your OCD symptoms better .By answering simple questions about how you're feeling,
+                      the system looks for patterns in your responses. It then gives helpful insights to your doctor, like how severe your symptoms may be and what types of treatments could be a good fit.
+                      Your privacy is important to us, and all your information is kept secure.This tool doesn't replace your doctor,
+                      but it helps them give you better, more personalized care.<br></p>
+                    <div class="row g-3">
+                        
+                    </div>
+                    <a href="/check" class="btn btn-primary py-3 px-5 mt-4 wow zoomIn" data-wow-delay="0.6s">Get Started</a>
+                </div>
+          <div class="col-lg-5">
+                <div class="card rounded-4 overflow-hidden border-0"style="min-height: 500px;">
+                    <div class="position-relative h-100">
+                        <img class="w-100 h-100 object-fit-cover" src="static/images/banner1.jpg" style="object-fit: cover;" alt="OCD Image">
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+<!-- About Start -->
+<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container">
+        <div class="row g-5">
+            <div class="col-lg-7">
+                <div class="section-title mb-4">
+                    <h5 class="position-relative d-inline-block text-primary text-uppercase">What is it OCD?</h5>
+                    <h1 class="display-5 mb-0">Understanding OCD</h1>
+                </div>
+                <h4 class="text-body fst-italic mb-4">Obsessive-compulsive disorder (OCD) is a mental illness characterized by recurrent, intrusive thoughts</h4>
+                <p class="mb-4">These thoughts that are usually associated with repetitive mental or physical behaviours. The thoughts and behaviours are often distressing and difficult to control. They take up significant amounts of time, impacting on the person’s ability to live their daily life.
+                    Obsessive–compulsive disorder (OCD) is a common and often disabling disorder that is frequently underdiagnosed and undertreated. While once viewed as an expression of unconscious conflict, OCD is now widely regarded as a neuropsychiatric disorder.(Obsessive–Compulsive Disorder,
+                </p>
+                <div class="row g-3">
+                    <div class="col-sm-6 wow zoomIn" data-wow-delay="0.6s">
+                    </div>
+                </div>
+                <a href="/about" class="btn btn-primary py-3 px-5 mt-4 wow zoomIn" data-wow-delay="0.6s">Learn More</a>
+            </div>
+            <div class="col-lg-5">
+                <div class="card" style="min-height: 500px;">
+                    <div class="position-relative h-100">
+                        <img class="card-img-top w-100 h-100" src="static/images/ocdcare_banner.jpg" style="object-fit: cover;" alt="OCD Image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- About End -->
+ <!-- About Start -->
+<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container">
+        <div class="row g-5">
+            <div class="col-lg-7">
+                <div class="section-title mb-4">
+                    <h5 class="position-relative d-inline-block text-primary text-uppercase">What is it OCD?</h5>
+                    <h1 class="display-5 mb-0">Understanding OCD</h1>
+                </div>
+                <h4 class="text-body fst-italic mb-4">A helpful tool to support your care and treatment journey</h4>
+                <p class="mb-4">Obsessive-compulsive disorder (OCD) is a mental illness characterized by recurrent, intrusive thoughts that are usually associated with repetitive mental or physical behaviours. The thoughts and behaviours are often distressing and difficult to control. They take up significant amounts of time, impacting on the person’s ability to live their daily life. (Sloan, 2022)
+                    Obsessive–compulsive disorder (OCD) is a common and often disabling disorder that is frequently underdiagnosed and undertreated. While once viewed as an expression of unconscious conflict, OCD is now widely regarded as a neuropsychiatric disorder.(Obsessive–Compulsive Disorder,Current obsessive-compulsive disorder statistics indicate that1 in 40 adults. 
+                    have OCD.Reports showthat OCD can affect children as young as five years old. Understanding OCD symptoms can help you identify if you or someone you know may suffer from this disorder, and OCD statistics demonstrate the prevalence of this condition.
+                </p>
+                <a href="Severity form.html" class="btn btn-primary py-3 px-5 mt-4 wow zoomIn" data-wow-delay="0.6s">Get Started</a>
+            </div>
+            <div class="col-lg-5">
+                <div class="card" style="min-height: 500px;">
+                    <div class="position-relative h-100">
+                        <img class="card-img-top w-100 h-100" src="static/images/obsessive-compulsive-disorder-ocd-names-diagnoses-medical-background-359453294.webp" style="object-fit: cover;" alt="OCD Image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- About End -->
+ ....
+
+ <!-- Footer Start -->
+ <div
+ class="container-fluid text-white mt-5 pt-5"
+ style="background-color: #054b98"
+>
+ <div class="row px-xl-5 pt-5">
+   <div class="col-lg-4 col-md-12 mb-5 pr-3 pr-xl-5">
+     <a href="" class="text-decoration-none">
+       <h1 class="mb-4 display-5 font-weight-semi-bold">
+         <img src="static/images/3533409_creativity_idea_imagination_innovation_innovative_icon.png"style="height:60px"> 
+       </h1>
+     </a>
+     <p>
+       A home of excellence for nice and wonderfull <br>
+       environment for both traders and seller <br>
+       magna ipsum dolore amet  erta
+     </p>
+     <p class="mb-2">
+       <i class="fa fa-map-marker-alt text-white mr-3"></i>123 Street,
+       New York, USA
+     </p>
+     <p class="mb-2">
+       <i class="fa fa-envelope text-white mr-3"></i>info@example.com
+     </p>
+     <p class="mb-0">
+       <i class="fa fa-phone-alt text-white mr-3"></i>+012 345 67890
+     </p>
+   </div>
+   <div class="col-lg-8 col-md-12">
+     <div class="row">
+       <div class="col-md-4 mb-5">
+         <h5 class="font-weight-bold text-white mb-4">Quick Links</h5>
+         <div class="d-flex flex-column justify-content-start">
+           <a class="text-white mb-2" href="index.html"
+             ><i class="fa fa-angle-right mr-2"></i>Home</a
+           >
+           <a class="text-white mb-2" href="shop.html"
+             ><i class="fa fa-angle-right mr-2"></i>About the Tool</a
+           >
+           <a class="text-white mb-2" href="detail.html"
+             ><i class="fa fa-angle-right mr-2"></i>FAQs</a
+           >
+           <a class="text-white mb-2" href="cart.html"
+             ><i class="fa fa-angle-right mr-2"></i>Resources</a
+           >
+           <a class="text-white mb-2" href="checkout.html"
+             ><i class="fa fa-angle-right mr-2"></i>Articles</a
+           >
+           <a class="text-white" href="contact.html"
+             ><i class="fa fa-angle-right mr-2"></i>Symptoms</a
+           >
+         </div>
+       </div>
+       <div class="col-md-4 mb-5">
+         <h5 class="font-weight-bold text-white mb-4">Quick Links</h5>
+         <div class="d-flex flex-column justify-content-start">
+           <a class="text-white mb-2" href="index.html"
+             ><i class="fa fa-angle-right mr-2"></i>Home</a
+           >
+           <a class="text-white mb-2" href="shop.html"
+             ><i class="fa fa-angle-right mr-2"></i>About the Tool</a
+           >
+           <a class="text-white mb-2" href="detail.html"
+             ><i class="fa fa-angle-right mr-2"></i>FAQs</a
+           >
+           <a class="text-white mb-2" href="cart.html"
+             ><i class="fa fa-angle-right mr-2"></i>Resources</a
+           >
+           <a class="text-white mb-2" href="checkout.html"
+             ><i class="fa fa-angle-right mr-2"></i>Articles</a
+           >
+           <a class="text-white" href="contact.html"
+             ><i class="fa fa-angle-right mr-2"></i>Symptoms</a
+           >
+         </div>
+       </div>
+ </div>
+ <div class="row border-top border-light mx-xl-5 py-4">
+   <div class="col-md-6 px-xl-0">
+     <p class="mb-md-0 text-center text-md-left text-white">
+       &copy;
+       <a class="text-white font-weight-semi-bold" href="#"
+         >OCDCare</a
+       >. All Rights Reserved. Designed by
+       <a
+         class="text-white font-weight-semi-bold"
+         href="https://htmlcodex.com"
+         >GREAT</a
+       ><br />
+       Distributed By
+       <a class="text-white" href="" target="_blank">JATTOSKY</a>
+     </p>
+   </div>
+   <div class="col-md-6 px-xl-0 text-center text-md-right">
+     <img class="img-fluid" src="img/image 41.png" alt="" />
+     <img class="img-fluid" src="img/image 42.png" alt="" />
+     <img class="img-fluid" src="img/image 43.png" alt="" />
+     <img class="img-fluid" src="img/image 41.png" alt="" />
+     <img class="img-fluid" src="img/image 42.png" alt="" />
+   </div>
+ </div>
+</div>
+<!-- Footer End -->
+
+<!--Javascript  -->
+<script src="lib/owlcarousel/owl.carousel.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="lib/wow/wow.min.js"></script>
+
+<!--Javascript  -->
+</body>
+</html>
+<!--<body class="bg-light text-center">
+    <div class="container mt-5">
+        <h1 class="mb-4">Welcome to the OCD Clinical Decision Support System</h1>
+        <p>This tool helps estimate OCD severity based on your symptoms and offers tailored recommendations.</p>
+        <a href="/check" class="btn btn-primary mt-3">Get Started</a>
+    </div>
+</body>
+</html>

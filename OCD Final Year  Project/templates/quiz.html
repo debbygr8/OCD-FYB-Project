@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OCD Self-Check Quiz</title>
+</head>
+<body>
+    <h1>OCD Self-Check Quiz</h1>
+    <form method="POST" action="/quiz">
+        <p>1. Do you find it hard to stop unwanted thoughts?</p>
+        <label><input type="radio" name="q1" value="Yes" required> Yes</label>
+        <label><input type="radio" name="q1" value="No"> No</label>
+
+        <p>2. Do you wash your hands many times, even when they’re not dirty?</p>
+        <label><input type="radio" name="q2" value="Yes" required> Yes</label>
+        <label><input type="radio" name="q2" value="No"> No</label>
+
+        <p>3. Do you feel you must arrange things perfectly?</p>
+        <label><input type="radio" name="q3" value="Yes" required> Yes</label>
+        <label><input type="radio" name="q3" value="No"> No</label>
+
+        <p>4. Do you check things (like doors or locks) again and again?</p>
+        <label><input type="radio" name="q4" value="Yes" required> Yes</label>
+        <label><input type="radio" name="q4" value="No"> No</label>
+
+        <p>5. Do you get upset if things aren't in order or even?</p>
+        <label><input type="radio" name="q5" value="Yes" required> Yes</label>
+        <label><input type="radio" name="q5" value="No"> No</label>
+
+        <p>6. Do you count things often, like steps or items?</p>
+        <label><input type="radio" name="q6" value="Yes" required> Yes</label>
+        <label><input type="radio" name="q6" value="No"> No</label>
+
+        <p>7. Do you feel scared something bad will happen if you don’t do certain things?</p>
+        <label><input type="radio" name="q7" value="Yes" required> Yes</label>
+        <label><input type="radio" name="q7" value="No"> No</label>
+
+        <p>8. Do you avoid things because they might be “dirty”?</p>
+        <label><input type="radio" name="q8" value="Yes" required> Yes</label>
+        <label><input type="radio" name="q8" value="No"> No</label>
+
+        <p>9. Do you repeat words or actions quietly to feel better?</p>
+        <label><input type="radio" name="q9" value="Yes" required> Yes</label>
+        <label><input type="radio" name="q9" value="No"> No</label>
+
+        <p>10. Do you hide these habits because you're afraid of what people will say?</p>
+        <label><input type="radio" name="q10" value="Yes" required> Yes</label>
+        <label><input type="radio" name="q10" value="No"> No</label>
+
+        <p>11. Do you feel bothered by thoughts that come over and over again?</p>
+        <label><input type="radio" name="q11" value="Yes" required> Yes</label>
+        <label><input type="radio" name="q11" value="No"> No</label>
+
+        <p>12. Do you feel tired from always trying to stop or fix your thoughts?</p>
+        <label><input type="radio" name="q12" value="Yes" required> Yes</label>
+        <label><input type="radio" name="q12" value="No"> No</label>
+
+        <br><br>
+        <button type="submit">See My Result</button>
+    </form>
+</body>
+</html>
+        <p class="text-center mb-4">Please tick the symptoms that most describe what you're experiencing.</p>
+    
+    <form action="/result" method="POST" class="bg-white p-4 shadow rounded">
+        <!-- Obsessions Section -->
+        <div class="form-section">
+            <h2>Obsessions</h2>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" name="obsessions" value="Unwanted thoughts" id="obs1">
+                <label class="form-check-label" for="obs1">Unwanted thoughts</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" name="obsessions" value="Fear of contamination" id="obs2">
+                <label class="form-check-label" for="obs2">Fear of contamination</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" name="obsessions" value="Fear of harming self or others" id="obs3">
+                <label class="form-check-label" for="obs3">Fear of harming self or others</label>
+            </div>

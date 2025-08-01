@@ -1,0 +1,325 @@
+Age,Gender,Ethnicity,Previous Diagnoses,Family History of OCD,Duration of Symptoms (months),Obsession Type,Compulsion Type,Y-BOCS Score (Obsessions),Y-BOCS Score (Compulsions),Depression Diagnosis,Anxiety Diagnosis,Medications
+32,Female,African,MDD,No,203,Harm-related,Checking,17,10,Yes,Yes,SNRI
+69,Male,African,,Yes,180,Harm-related,Washing,21,25,Yes,Yes,SSRI
+21,Female,African,GAD,Yes,95,Harm-related,Checking,40,26,Yes,No,
+25,Male,African,Panic Disorder,Yes,206,Religious,Counting,7,21,Yes,No,SSRI
+55,Female,African,,Yes,147,Religious,Checking,38,20,No,Yes,Benzodiazepine
+50,Female,African,,Yes,62,Hoarding,Washing,22,22,No,No,
+24,Male,African,Panic Disorder,Yes,58,Harm-related,Praying,34,0,No,Yes,Benzodiazepine
+69,Female,African,Panic Disorder,No,217,Hoarding,Washing,28,37,No,Yes,
+22,Male,African,,Yes,207,Harm-related,Ordering,16,10,Yes,No,SSRI
+31,Female,African,MDD,Yes,59,Hoarding,Washing,40,32,No,Yes,
+72,Male,African,MDD,Yes,22,Religious,Washing,28,5,No,No,SNRI
+49,Male,African,Panic Disorder,Yes,47,Religious,Washing,11,9,No,No,
+25,Male,African,Panic Disorder,Yes,84,Symmetry,Checking,29,3,No,No,SSRI
+19,Male,African,,Yes,90,Harm-related,Ordering,17,6,Yes,No,SNRI
+31,Male,African,,Yes,222,Religious,Praying,28,6,Yes,Yes,SSRI
+23,Female,African,MDD,Yes,49,Contamination,Washing,33,5,No,No,Benzodiazepine
+24,Female,African,MDD,No,23,Hoarding,Counting,38,33,Yes,No,Benzodiazepine
+38,Male,African,,No,39,Symmetry,Counting,21,14,Yes,Yes,SSRI
+32,Female,African,PTSD,No,26,Religious,Ordering,31,32,No,Yes,
+26,Female,African,Panic Disorder,No,24,Religious,Ordering,9,31,No,No,
+55,Male,African,Panic Disorder,No,231,Hoarding,Ordering,20,31,Yes,No,SNRI
+23,Female,African,GAD,No,21,Hoarding,Washing,2,1,Yes,Yes,
+58,Male,African,GAD,No,216,Religious,Praying,26,2,No,No,SNRI
+29,Female,African,GAD,Yes,146,Religious,Washing,4,1,Yes,No,SSRI
+67,Female,African,Panic Disorder,No,165,Hoarding,Checking,35,9,Yes,Yes,
+19,Male,African,Panic Disorder,Yes,57,Symmetry,Counting,33,32,Yes,Yes,Benzodiazepine
+47,Male,African,GAD,Yes,156,Contamination,Checking,33,37,Yes,No,SSRI
+69,Female,African,PTSD,No,88,Symmetry,Praying,5,19,Yes,No,SNRI
+35,Male,African,PTSD,No,171,Harm-related,Praying,36,4,Yes,Yes,Benzodiazepine
+72,Female,African,,No,117,Hoarding,Checking,9,13,No,No,SNRI
+29,Male,African,GAD,Yes,191,Contamination,Ordering,1,4,Yes,No,SNRI
+38,Male,African,Panic Disorder,No,87,Contamination,Ordering,13,13,Yes,No,SNRI
+32,Male,African,GAD,Yes,210,Hoarding,Counting,16,3,No,No,SSRI
+70,Male,African,MDD,Yes,22,Contamination,Praying,6,25,Yes,Yes,
+43,Female,African,Panic Disorder,Yes,220,Harm-related,Ordering,27,25,No,Yes,SNRI
+32,Male,African,Panic Disorder,Yes,228,Religious,Washing,36,29,Yes,Yes,SSRI
+34,Female,African,PTSD,Yes,143,Contamination,Praying,22,32,Yes,Yes,SNRI
+75,Male,African,MDD,Yes,199,Hoarding,Counting,40,21,Yes,No,SNRI
+59,Female,African,GAD,Yes,105,Religious,Praying,16,19,No,No,
+42,Male,African,GAD,No,223,Hoarding,Ordering,28,24,No,Yes,Benzodiazepine
+61,Male,African,Panic Disorder,No,178,Hoarding,Praying,18,12,Yes,No,
+53,Male,African,MDD,Yes,206,Contamination,Washing,18,19,No,No,
+68,Male,African,PTSD,Yes,66,Religious,Checking,40,10,No,Yes,SNRI
+59,Male,African,GAD,No,190,Contamination,Washing,31,39,Yes,Yes,SNRI
+33,Female,African,GAD,No,126,Religious,Checking,18,6,Yes,No,
+36,Female,African,Panic Disorder,Yes,167,Religious,Washing,33,6,Yes,Yes,Benzodiazepine
+42,Male,African,PTSD,No,33,Contamination,Checking,5,25,Yes,Yes,Benzodiazepine
+52,Male,African,MDD,No,32,Contamination,Counting,15,33,Yes,Yes,SNRI
+27,Male,African,PTSD,No,94,Contamination,Washing,17,35,Yes,Yes,
+60,Male,African,MDD,Yes,38,Religious,Washing,11,22,Yes,No,SSRI
+62,Male,African,MDD,Yes,26,Harm-related,Counting,2,39,No,Yes,SNRI
+61,Male,African,PTSD,Yes,132,Harm-related,Washing,12,4,Yes,Yes,SNRI
+48,Male,African,Panic Disorder,Yes,180,Symmetry,Washing,26,33,No,Yes,SSRI
+29,Male,African,Panic Disorder,No,150,Symmetry,Counting,21,30,No,Yes,
+70,Male,African,PTSD,Yes,27,Contamination,Ordering,34,15,Yes,Yes,
+60,Male,African,Panic Disorder,Yes,38,Harm-related,Ordering,3,24,Yes,No,
+73,Female,African,GAD,No,116,Hoarding,Checking,24,29,Yes,No,Benzodiazepine
+28,Female,African,Panic Disorder,Yes,32,Contamination,Washing,24,4,Yes,Yes,Benzodiazepine
+53,Male,African,Panic Disorder,Yes,127,Harm-related,Ordering,25,19,No,No,SSRI
+34,Male,African,GAD,Yes,14,Religious,Praying,1,40,Yes,No,
+64,Female,African,MDD,No,164,Contamination,Counting,20,26,No,Yes,SSRI
+56,Female,African,GAD,Yes,104,Symmetry,Praying,24,29,No,Yes,SNRI
+40,Female,African,GAD,Yes,122,Contamination,Ordering,31,34,No,Yes,
+75,Female,African,GAD,No,176,Religious,Washing,32,33,No,Yes,Benzodiazepine
+25,Female,African,Panic Disorder,Yes,196,Hoarding,Washing,34,5,Yes,No,SNRI
+27,Male,African,GAD,Yes,171,Religious,Counting,33,0,Yes,No,SNRI
+30,Male,African,GAD,No,70,Religious,Checking,4,15,No,No,SSRI
+37,Male,African,Panic Disorder,Yes,115,Hoarding,Ordering,6,6,Yes,Yes,
+41,Female,African,GAD,No,10,Harm-related,Checking,32,28,Yes,No,Benzodiazepine
+73,Male,African,MDD,No,234,Harm-related,Counting,15,32,No,Yes,SNRI
+63,Male,African,MDD,No,141,Contamination,Ordering,35,4,No,Yes,SNRI
+55,Female,African,Panic Disorder,No,101,Symmetry,Ordering,3,17,No,Yes,
+68,Female,African,PTSD,Yes,98,Symmetry,Washing,6,35,Yes,Yes,
+74,Male,African,GAD,No,85,Religious,Praying,29,15,No,Yes,SNRI
+63,Male,African,Panic Disorder,No,27,Hoarding,Counting,1,14,No,Yes,
+59,Male,African,Panic Disorder,No,115,Hoarding,Checking,17,22,Yes,Yes,Benzodiazepine
+50,Male,African,,Yes,47,Symmetry,Washing,13,7,Yes,No,Benzodiazepine
+28,Male,African,GAD,No,113,Harm-related,Washing,0,4,No,No,SNRI
+46,Female,African,MDD,No,22,Hoarding,Checking,1,0,Yes,Yes,
+43,Female,African,,No,16,Contamination,Checking,16,0,No,No,SSRI
+28,Female,African,MDD,No,41,Religious,Ordering,27,25,Yes,Yes,
+27,Male,African,,No,148,Symmetry,Counting,37,10,No,No,SSRI
+31,Male,African,Panic Disorder,No,91,Hoarding,Washing,1,5,No,Yes,SNRI
+50,Female,African,Panic Disorder,Yes,170,Symmetry,Counting,39,23,No,No,
+29,Male,African,PTSD,Yes,98,Hoarding,Praying,36,26,No,No,SSRI
+35,Female,African,GAD,Yes,63,Religious,Praying,17,1,No,No,Benzodiazepine
+49,Female,African,Panic Disorder,Yes,171,Hoarding,Checking,22,9,No,No,Benzodiazepine
+36,Male,African,PTSD,Yes,136,Harm-related,Counting,36,39,No,Yes,
+50,Male,African,,Yes,144,Hoarding,Praying,5,12,Yes,Yes,Benzodiazepine
+34,Female,African,PTSD,Yes,195,Religious,Ordering,33,5,Yes,No,SNRI
+72,Male,African,PTSD,Yes,208,Religious,Checking,12,38,No,Yes,
+43,Female,African,Panic Disorder,Yes,233,Hoarding,Counting,20,16,No,No,SNRI
+62,Male,African,,Yes,163,Symmetry,Checking,33,14,Yes,Yes,Benzodiazepine
+54,Male,African,GAD,Yes,211,Contamination,Washing,39,33,Yes,Yes,SSRI
+43,Male,African,MDD,No,217,Hoarding,Ordering,38,17,Yes,No,SSRI
+32,Male,African,PTSD,No,238,Contamination,Praying,28,36,No,No,Benzodiazepine
+28,Female,African,MDD,Yes,65,Religious,Counting,12,4,Yes,Yes,SNRI
+53,Male,African,Panic Disorder,No,162,Harm-related,Washing,0,5,No,No,
+72,Male,African,MDD,Yes,158,Hoarding,Washing,17,5,Yes,No,Benzodiazepine
+59,Male,African,Panic Disorder,Yes,17,Harm-related,Checking,11,20,No,No,SNRI
+38,Male,African,MDD,No,240,Religious,Washing,4,8,No,Yes,
+74,Male,African,MDD,No,126,Religious,Praying,35,12,No,Yes,SNRI
+72,Male,African,MDD,No,168,Contamination,Washing,33,29,Yes,No,Benzodiazepine
+35,Male,African,Panic Disorder,No,25,Harm-related,Checking,38,19,Yes,Yes,SSRI
+29,Male,African,Panic Disorder,No,136,Religious,Washing,27,2,No,No,Benzodiazepine
+19,Male,African,PTSD,Yes,133,Harm-related,Ordering,19,7,No,No,Benzodiazepine
+20,Male,African,PTSD,No,112,Symmetry,Counting,29,26,Yes,No,
+49,Female,African,MDD,No,56,Contamination,Counting,5,37,Yes,No,Benzodiazepine
+68,Female,African,MDD,Yes,221,Symmetry,Ordering,26,5,No,Yes,
+27,Female,African,MDD,Yes,209,Hoarding,Checking,20,26,No,Yes,
+48,Female,African,MDD,No,202,Religious,Counting,17,15,No,No,SNRI
+18,Female,African,,Yes,179,Hoarding,Ordering,14,21,Yes,No,SSRI
+65,Male,African,PTSD,Yes,140,Hoarding,Counting,40,14,No,Yes,SSRI
+72,Female,African,GAD,Yes,193,Contamination,Ordering,9,5,Yes,Yes,
+57,Female,African,,Yes,8,Hoarding,Counting,10,1,No,Yes,Benzodiazepine
+49,Female,African,PTSD,No,28,Harm-related,Praying,34,0,No,Yes,
+60,Female,African,PTSD,No,199,Hoarding,Checking,32,20,No,Yes,
+29,Female,African,Panic Disorder,Yes,72,Harm-related,Ordering,9,34,No,No,Benzodiazepine
+32,Female,African,MDD,Yes,52,Harm-related,Ordering,28,28,No,No,SNRI
+74,Male,African,MDD,Yes,200,Religious,Washing,12,17,Yes,No,
+50,Female,African,Panic Disorder,No,183,Hoarding,Washing,16,10,Yes,Yes,SSRI
+37,Female,African,,Yes,122,Hoarding,Ordering,8,9,Yes,No,
+55,Male,African,GAD,No,28,Harm-related,Counting,36,21,Yes,Yes,
+45,Female,African,MDD,Yes,173,Religious,Washing,2,18,Yes,Yes,SNRI
+52,Female,African,Panic Disorder,Yes,67,Contamination,Ordering,1,23,No,Yes,SSRI
+44,Female,African,PTSD,No,67,Hoarding,Praying,19,19,Yes,Yes,Benzodiazepine
+34,Female,African,PTSD,Yes,9,Religious,Washing,29,28,Yes,Yes,SNRI
+43,Male,African,Panic Disorder,Yes,188,Hoarding,Washing,34,30,Yes,Yes,
+50,Male,African,,No,89,Symmetry,Counting,3,9,Yes,No,SSRI
+30,Male,African,MDD,No,16,Contamination,Praying,24,33,No,Yes,SNRI
+24,Male,African,MDD,No,101,Harm-related,Washing,27,23,Yes,Yes,SSRI
+48,Male,African,GAD,Yes,178,Symmetry,Ordering,25,28,No,No,SNRI
+40,Male,African,MDD,No,140,Hoarding,Washing,16,28,Yes,No,
+44,Female,African,MDD,Yes,146,Contamination,Checking,37,14,Yes,No,SNRI
+41,Female,African,Panic Disorder,Yes,232,Symmetry,Counting,10,8,Yes,No,SSRI
+37,Female,African,Panic Disorder,No,94,Contamination,Washing,26,4,Yes,No,
+37,Male,African,PTSD,Yes,169,Hoarding,Ordering,9,38,Yes,No,SNRI
+60,Male,African,,Yes,166,Harm-related,Praying,35,40,Yes,No,
+25,Female,African,GAD,No,76,Symmetry,Ordering,17,3,Yes,No,
+66,Female,African,PTSD,Yes,62,Hoarding,Checking,23,25,Yes,Yes,Benzodiazepine
+69,Male,African,Panic Disorder,No,191,Harm-related,Ordering,37,39,No,Yes,Benzodiazepine
+22,Female,African,GAD,No,187,Religious,Ordering,34,21,No,No,
+43,Female,African,PTSD,No,120,Hoarding,Checking,8,19,No,Yes,
+40,Male,African,Panic Disorder,No,164,Religious,Ordering,8,29,Yes,No,SSRI
+63,Male,African,Panic Disorder,No,98,Religious,Counting,25,1,Yes,No,SNRI
+27,Female,African,MDD,Yes,48,Religious,Checking,20,18,No,Yes,
+64,Female,African,PTSD,Yes,225,Hoarding,Ordering,10,12,No,Yes,SSRI
+26,Male,African,GAD,No,185,Symmetry,Washing,5,17,No,Yes,SSRI
+49,Male,African,GAD,Yes,78,Contamination,Counting,36,21,No,No,SNRI
+36,Female,African,GAD,Yes,70,Symmetry,Counting,6,9,Yes,No,Benzodiazepine
+68,Female,African,,No,101,Hoarding,Washing,34,38,No,Yes,SSRI
+21,Male,African,Panic Disorder,No,27,Symmetry,Washing,7,22,No,No,
+51,Male,African,GAD,No,45,Harm-related,Washing,22,32,Yes,Yes,SSRI
+58,Male,African,GAD,Yes,125,Hoarding,Counting,16,28,No,No,
+55,Male,African,PTSD,No,145,Symmetry,Ordering,25,27,No,No,Benzodiazepine
+59,Female,African,Panic Disorder,No,65,Harm-related,Counting,1,8,No,Yes,Benzodiazepine
+24,Female,African,PTSD,No,190,Contamination,Praying,24,7,No,Yes,
+43,Female,African,Panic Disorder,Yes,159,Religious,Praying,20,12,Yes,No,SNRI
+30,Female,African,,Yes,27,Harm-related,Washing,24,12,Yes,Yes,
+58,Female,African,,No,14,Harm-related,Praying,14,39,No,Yes,SSRI
+24,Male,African,MDD,No,218,Contamination,Praying,8,22,No,Yes,Benzodiazepine
+59,Male,African,Panic Disorder,Yes,237,Hoarding,Washing,18,0,No,Yes,SNRI
+71,Male,African,MDD,Yes,58,Symmetry,Counting,9,5,No,Yes,SSRI
+41,Male,African,PTSD,Yes,213,Harm-related,Ordering,29,9,Yes,No,SNRI
+26,Male,African,GAD,No,57,Religious,Checking,10,34,No,No,Benzodiazepine
+26,Male,African,PTSD,No,203,Symmetry,Ordering,29,19,Yes,No,SNRI
+56,Male,African,PTSD,No,237,Symmetry,Ordering,14,1,Yes,Yes,
+31,Male,African,PTSD,No,128,Contamination,Checking,32,22,Yes,No,
+30,Female,African,MDD,No,58,Symmetry,Checking,4,32,Yes,No,SSRI
+50,Male,African,,No,65,Religious,Counting,0,10,No,No,SNRI
+35,Male,African,Panic Disorder,Yes,19,Harm-related,Checking,19,3,No,Yes,SNRI
+67,Female,African,MDD,No,218,Contamination,Ordering,19,16,Yes,No,SNRI
+43,Female,African,,No,90,Symmetry,Praying,2,16,No,Yes,
+44,Male,African,Panic Disorder,No,228,Contamination,Checking,14,21,Yes,No,SNRI
+24,Male,African,Panic Disorder,Yes,179,Symmetry,Washing,6,10,No,No,SSRI
+62,Male,African,PTSD,No,37,Symmetry,Counting,17,36,Yes,No,Benzodiazepine
+26,Male,African,MDD,No,94,Contamination,Checking,14,30,No,No,SNRI
+62,Male,African,GAD,No,50,Symmetry,Praying,27,10,Yes,Yes,Benzodiazepine
+62,Female,African,GAD,Yes,159,Hoarding,Checking,34,34,Yes,No,
+56,Female,African,MDD,No,239,Hoarding,Counting,31,5,Yes,Yes,SSRI
+70,Female,African,PTSD,Yes,67,Symmetry,Checking,14,8,No,No,SSRI
+73,Female,African,Panic Disorder,Yes,233,Religious,Praying,26,38,Yes,Yes,Benzodiazepine
+39,Male,African,,Yes,218,Hoarding,Washing,27,34,Yes,No,Benzodiazepine
+19,Female,African,Panic Disorder,No,127,Religious,Washing,11,22,Yes,No,SSRI
+21,Female,African,MDD,No,24,Hoarding,Checking,40,29,No,Yes,SNRI
+45,Male,African,Panic Disorder,Yes,167,Hoarding,Washing,1,9,Yes,Yes,SNRI
+51,Male,African,GAD,No,55,Contamination,Praying,31,10,No,Yes,
+65,Female,African,MDD,Yes,17,Religious,Praying,16,14,No,Yes,Benzodiazepine
+41,Female,African,PTSD,Yes,37,Contamination,Praying,4,7,No,Yes,
+55,Male,African,MDD,No,77,Symmetry,Ordering,36,20,No,Yes,SNRI
+61,Female,African,MDD,No,236,Religious,Checking,29,29,No,Yes,
+49,Female,African,GAD,Yes,7,Hoarding,Washing,28,28,No,Yes,Benzodiazepine
+34,Male,African,,No,135,Religious,Praying,8,24,Yes,No,SNRI
+26,Female,African,PTSD,Yes,129,Religious,Checking,18,40,Yes,Yes,SNRI
+23,Male,African,Panic Disorder,No,133,Symmetry,Counting,19,26,No,No,Benzodiazepine
+48,Male,African,Panic Disorder,No,79,Contamination,Checking,27,2,Yes,No,SSRI
+70,Female,African,MDD,Yes,199,Contamination,Washing,21,9,Yes,No,
+32,Female,African,Panic Disorder,No,71,Harm-related,Counting,24,2,No,No,SSRI
+62,Male,African,Panic Disorder,No,184,Religious,Ordering,33,39,Yes,Yes,
+65,Female,African,MDD,No,67,Harm-related,Washing,37,10,No,No,
+29,Female,African,GAD,Yes,167,Symmetry,Washing,37,2,No,No,SNRI
+74,Male,African,GAD,Yes,171,Religious,Counting,24,36,Yes,No,SNRI
+46,Male,African,,Yes,207,Religious,Checking,39,21,Yes,No,SSRI
+53,Female,African,MDD,No,46,Symmetry,Ordering,1,5,Yes,Yes,Benzodiazepine
+38,Male,African,PTSD,Yes,194,Hoarding,Ordering,16,27,No,No,
+39,Male,African,,Yes,147,Hoarding,Praying,29,13,Yes,No,SSRI
+74,Male,African,PTSD,No,151,Symmetry,Checking,3,24,Yes,No,Benzodiazepine
+26,Male,African,Panic Disorder,Yes,24,Contamination,Counting,2,10,Yes,Yes,
+44,Male,African,MDD,Yes,26,Harm-related,Praying,6,1,No,Yes,SSRI
+38,Male,African,,No,53,Harm-related,Washing,37,25,Yes,No,SNRI
+42,Male,African,PTSD,Yes,119,Hoarding,Washing,32,37,No,No,
+19,Male,African,Panic Disorder,Yes,47,Religious,Praying,22,39,Yes,No,SNRI
+71,Male,African,Panic Disorder,No,49,Harm-related,Ordering,32,2,Yes,No,SNRI
+66,Female,African,PTSD,Yes,58,Religious,Counting,38,11,No,Yes,SNRI
+57,Female,African,Panic Disorder,Yes,52,Symmetry,Checking,19,16,Yes,No,SSRI
+71,Female,African,,Yes,52,Symmetry,Washing,8,6,No,No,SSRI
+68,Female,African,,No,148,Contamination,Counting,9,16,Yes,No,SSRI
+75,Male,African,PTSD,No,178,Hoarding,Washing,9,38,Yes,Yes,Benzodiazepine
+68,Male,African,PTSD,Yes,132,Harm-related,Counting,34,24,No,Yes,Benzodiazepine
+24,Male,African,,Yes,109,Contamination,Praying,31,25,Yes,No,
+62,Female,African,PTSD,Yes,205,Contamination,Praying,11,0,No,Yes,SSRI
+29,Male,African,MDD,Yes,109,Symmetry,Praying,11,36,No,No,Benzodiazepine
+31,Male,African,,No,97,Contamination,Praying,9,19,No,No,Benzodiazepine
+55,Female,African,MDD,Yes,17,Symmetry,Praying,31,36,Yes,Yes,SSRI
+26,Male,African,PTSD,Yes,238,Religious,Checking,14,37,No,Yes,SNRI
+57,Female,African,Panic Disorder,No,79,Religious,Washing,28,21,No,Yes,Benzodiazepine
+33,Male,African,MDD,Yes,140,Contamination,Checking,4,37,No,Yes,Benzodiazepine
+71,Male,African,GAD,Yes,101,Harm-related,Checking,14,8,No,No,SSRI
+70,Female,African,,Yes,136,Religious,Ordering,35,6,Yes,No,SSRI
+73,Female,African,,No,141,Religious,Checking,29,36,Yes,No,SSRI
+26,Male,African,MDD,No,223,Hoarding,Counting,36,39,No,No,
+18,Male,African,Panic Disorder,No,74,Symmetry,Checking,19,33,Yes,Yes,SSRI
+21,Male,African,MDD,No,220,Harm-related,Counting,3,26,No,Yes,SNRI
+51,Male,African,PTSD,Yes,187,Harm-related,Washing,30,16,Yes,Yes,Benzodiazepine
+20,Female,African,GAD,No,131,Contamination,Washing,1,8,No,No,SSRI
+66,Female,African,GAD,Yes,8,Harm-related,Counting,29,6,Yes,Yes,
+25,Male,African,GAD,No,222,Symmetry,Ordering,36,39,No,Yes,
+69,Male,African,Panic Disorder,Yes,48,Hoarding,Checking,20,19,No,Yes,Benzodiazepine
+40,Female,African,,Yes,6,Symmetry,Ordering,4,4,Yes,Yes,
+64,Male,African,Panic Disorder,Yes,143,Hoarding,Ordering,22,36,Yes,No,SNRI
+60,Female,African,GAD,No,118,Contamination,Washing,2,18,Yes,Yes,Benzodiazepine
+20,Male,African,,Yes,53,Harm-related,Washing,0,2,No,No,Benzodiazepine
+59,Female,African,Panic Disorder,Yes,47,Hoarding,Counting,12,8,Yes,No,
+25,Female,African,,Yes,80,Contamination,Checking,38,24,Yes,Yes,SNRI
+20,Female,African,GAD,Yes,198,Religious,Checking,27,14,Yes,No,Benzodiazepine
+62,Female,African,PTSD,No,169,Symmetry,Washing,31,34,No,No,
+39,Female,African,GAD,Yes,75,Harm-related,Praying,30,1,Yes,No,Benzodiazepine
+55,Female,African,Panic Disorder,Yes,106,Religious,Washing,33,6,No,No,
+33,Female,African,GAD,Yes,172,Religious,Washing,18,23,No,No,SSRI
+54,Female,African,,Yes,203,Harm-related,Checking,16,7,No,Yes,Benzodiazepine
+54,Male,African,GAD,No,116,Harm-related,Counting,38,1,Yes,No,SNRI
+28,Male,African,MDD,Yes,43,Religious,Counting,12,19,Yes,No,Benzodiazepine
+45,Male,African,GAD,No,209,Hoarding,Praying,13,21,No,Yes,Benzodiazepine
+25,Male,African,Panic Disorder,No,119,Symmetry,Washing,32,2,Yes,Yes,SSRI
+33,Male,African,GAD,No,171,Hoarding,Ordering,26,33,No,No,Benzodiazepine
+72,Female,African,Panic Disorder,No,16,Harm-related,Washing,10,20,Yes,Yes,SNRI
+20,Male,African,PTSD,No,139,Hoarding,Ordering,19,34,No,Yes,SSRI
+75,Male,African,PTSD,No,131,Contamination,Checking,28,25,Yes,No,SSRI
+72,Female,African,,Yes,217,Symmetry,Washing,10,2,No,Yes,SSRI
+64,Female,African,PTSD,No,70,Symmetry,Praying,4,39,Yes,Yes,SSRI
+18,Male,African,,No,46,Symmetry,Counting,31,0,No,Yes,
+52,Male,African,,No,177,Hoarding,Ordering,23,36,Yes,No,SSRI
+35,Female,African,Panic Disorder,No,233,Religious,Ordering,7,12,No,No,
+28,Female,African,,No,220,Contamination,Washing,3,16,No,Yes,SSRI
+44,Female,African,MDD,Yes,120,Harm-related,Washing,23,9,No,No,SSRI
+46,Male,African,,Yes,24,Religious,Praying,36,18,No,Yes,SNRI
+57,Female,African,PTSD,Yes,75,Contamination,Washing,6,23,Yes,No,Benzodiazepine
+33,Female,African,Panic Disorder,Yes,231,Contamination,Counting,23,29,No,Yes,SNRI
+54,Male,African,PTSD,No,192,Harm-related,Praying,18,10,No,No,
+39,Female,African,MDD,Yes,29,Symmetry,Washing,14,3,No,Yes,SNRI
+21,Male,African,PTSD,No,19,Symmetry,Ordering,3,27,No,No,SSRI
+59,Male,African,Panic Disorder,Yes,226,Harm-related,Counting,1,4,Yes,Yes,SNRI
+20,Female,African,,No,239,Contamination,Ordering,4,9,No,Yes,SSRI
+39,Male,African,PTSD,No,126,Religious,Ordering,24,33,Yes,No,Benzodiazepine
+18,Male,African,Panic Disorder,No,108,Symmetry,Counting,30,39,Yes,Yes,
+46,Male,African,Panic Disorder,No,56,Harm-related,Washing,5,40,Yes,Yes,
+31,Female,African,,Yes,224,Hoarding,Counting,39,24,Yes,No,
+65,Male,African,,Yes,82,Symmetry,Ordering,33,18,No,Yes,
+40,Male,African,GAD,Yes,149,Symmetry,Counting,8,31,Yes,No,SSRI
+51,Female,African,MDD,Yes,119,Hoarding,Washing,5,30,No,No,SSRI
+47,Male,African,Panic Disorder,No,184,Symmetry,Checking,11,33,Yes,No,
+27,Female,African,Panic Disorder,Yes,176,Harm-related,Ordering,25,14,No,No,
+65,Female,African,,Yes,207,Contamination,Praying,23,26,Yes,Yes,SSRI
+75,Male,African,MDD,Yes,110,Religious,Praying,2,3,Yes,Yes,SNRI
+65,Female,African,PTSD,No,71,Religious,Counting,18,40,No,No,Benzodiazepine
+64,Female,African,MDD,No,226,Contamination,Washing,0,7,Yes,Yes,
+24,Female,African,MDD,Yes,18,Harm-related,Washing,9,18,No,Yes,SNRI
+39,Male,African,,No,87,Religious,Counting,23,39,Yes,No,SNRI
+41,Female,African,Panic Disorder,Yes,211,Religious,Counting,4,13,Yes,Yes,
+75,Male,African,PTSD,Yes,8,Contamination,Counting,6,22,No,Yes,SNRI
+50,Female,African,Panic Disorder,No,9,Contamination,Praying,20,8,No,Yes,Benzodiazepine
+74,Male,African,MDD,Yes,221,Contamination,Counting,6,8,Yes,No,
+29,Female,African,MDD,Yes,38,Symmetry,Ordering,14,29,Yes,Yes,Benzodiazepine
+54,Male,African,PTSD,Yes,27,Symmetry,Checking,20,0,Yes,No,Benzodiazepine
+49,Female,African,,No,48,Harm-related,Checking,31,26,Yes,No,SSRI
+74,Male,African,,No,228,Symmetry,Ordering,40,39,Yes,Yes,SNRI
+56,Male,African,PTSD,No,122,Symmetry,Counting,18,39,No,No,SNRI
+27,Male,African,Panic Disorder,No,24,Contamination,Ordering,4,39,No,Yes,
+52,Male,African,GAD,Yes,140,Harm-related,Ordering,10,3,Yes,Yes,SNRI
+32,Male,African,PTSD,Yes,214,Harm-related,Praying,6,13,No,Yes,SSRI
+48,Male,African,PTSD,Yes,152,Contamination,Checking,13,10,Yes,Yes,
+52,Female,African,Panic Disorder,Yes,61,Symmetry,Praying,5,31,No,Yes,Benzodiazepine
+37,Male,African,,Yes,116,Contamination,Checking,26,28,Yes,No,Benzodiazepine
+70,Female,African,GAD,No,175,Hoarding,Checking,0,8,No,Yes,SSRI
+50,Female,African,Panic Disorder,No,204,Religious,Washing,32,19,No,No,SNRI
+64,Male,African,,Yes,12,Hoarding,Counting,14,2,Yes,No,SNRI
+54,Female,African,PTSD,Yes,90,Harm-related,Counting,24,40,No,No,Benzodiazepine
+69,Female,African,,Yes,163,Hoarding,Counting,21,14,Yes,No,Benzodiazepine
+28,Male,African,PTSD,Yes,51,Religious,Praying,2,7,Yes,Yes,Benzodiazepine
+45,Male,African,MDD,Yes,103,Symmetry,Checking,5,23,No,Yes,
+65,Female,African,MDD,No,132,Harm-related,Counting,30,10,No,Yes,SSRI
+27,Female,African,MDD,Yes,213,Hoarding,Washing,7,5,Yes,No,SSRI
+61,Male,African,MDD,No,169,Harm-related,Checking,10,15,Yes,Yes,Benzodiazepine
+60,Male,African,GAD,No,23,Symmetry,Checking,6,28,No,No,SSRI
+20,Male,African,,No,227,Hoarding,Checking,18,33,Yes,No,SSRI
+19,Female,African,PTSD,Yes,23,Harm-related,Checking,38,21,No,Yes,SNRI
+74,Male,African,Panic Disorder,No,236,Hoarding,Counting,40,21,No,Yes,SSRI
+74,Male,African,Panic Disorder,Yes,70,Symmetry,Checking,31,8,Yes,Yes,SSRI
+44,Male,African,Panic Disorder,Yes,82,Religious,Washing,27,36,No,Yes,Benzodiazepine
+20,Male,African,PTSD,Yes,36,Religious,Counting,20,33,Yes,Yes,
+32,Female,African,Panic Disorder,No,135,Hoarding,Checking,11,19,Yes,No,SSRI
+55,Female,African,Panic Disorder,No,158,Religious,Washing,25,6,No,Yes,
+42,Female,African,GAD,No,210,Symmetry,Praying,29,31,Yes,No,Benzodiazepine
+62,Female,African,Panic Disorder,No,162,Hoarding,Checking,20,15,No,Yes,SNRI
